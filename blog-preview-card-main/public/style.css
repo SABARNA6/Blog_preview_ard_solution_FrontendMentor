@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'figtree';
-    src:url('/blog-preview-card-main/assets/fonts/Figtree-VariableFont_wght.ttf');
+    src:url('./assets/fonts/Figtree-VariableFont_wght.ttf');
 }
 :root{
     --primary-color :hsl(47, 88%, 63%);
