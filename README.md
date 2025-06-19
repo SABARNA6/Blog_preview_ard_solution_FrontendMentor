@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./my_design/TabletActive.png)
-![](./my_design/TabletView.png)
+![](.blog-preview-card-main/my_design/TabletActive.png)
+![](.blog-preview-card-main/my_design/TabletView.png)
 
 ### Links
 
