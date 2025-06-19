@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/SABARNA6/Blog_preview_ard_solution_FrontendMentor)
+- Live Site URL: [Vercel](https://blog-preview-ard-solution-frontend.vercel.app/)
 
 ## My process
 
